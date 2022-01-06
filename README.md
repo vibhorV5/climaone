@@ -1,6 +1,6 @@
 # climaone
 
-A new Flutter project.
+Will show city weather with a little hint ;)
 
 ## Getting Started
 
